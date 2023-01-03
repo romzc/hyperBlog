@@ -4,3 +4,5 @@ i like topics about programming, movies and cartoons, also i have to learn engli
 hoy hablaremso de su vida como imbecil creende qu puede hacerlo todo
 
 ahora tambien hablaremos de su edad que esta año cumplicar los 23 años el imbecil este
+
+hola prueba para ver el comando git reset head
