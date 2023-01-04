@@ -8,3 +8,6 @@ ahora tambien hablaremos de su edad que esta año cumplicar los 23 años el imbe
 hola prueba para ver el comando git reset head
 
 anita tiene 43 años y nacio en windows
+
+master 1
+
