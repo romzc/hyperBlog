@@ -1,6 +1,6 @@
 # hyperBlog
 Un blog para una gran persona
-
+Creado gracias al curso de git y github de Platzi Team
 
 # Apuntes
  - git remote add origin (URL)
